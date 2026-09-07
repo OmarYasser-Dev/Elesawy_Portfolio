@@ -123,6 +123,8 @@ html {
   scroll-behavior: smooth;
   scroll-padding-top: calc(var(--header-height) + 1.5rem);
   font-size: 16px;
+  overflow-x: hidden;
+  overflow-x: clip;
 }
 
 body {
@@ -133,6 +135,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
+  overflow-x: clip;
   transition: background-color var(--transition-base), color var(--transition-base);
 }
 
@@ -2206,4 +2209,16 @@ a.channel-card:hover .channel-value {
   .contact-form-panel {
     padding: 1.5rem;
   }
+}
+
+#omar-chatbot-widget,
+#chatbot-toggle {
+  visibility: visible !important;
+  opacity: 1 !important;
+}
+
+#chatbot-toggle {
+  position: fixed !important;
+  display: flex !important;
+  z-index: 2147483646 !important;
 }
