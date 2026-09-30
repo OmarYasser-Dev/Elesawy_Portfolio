@@ -1,6 +1,6 @@
 # Implementation Plan - Omar Yasser Developer Portfolio
 
-Create a complete, single-page, visually polished and modern developer portfolio website for **Omar Yasser**, **Python Automation & Web Scraping Developer**, using **pure HTML5, CSS3, and vanilla JavaScript**.
+Create a complete, single-page, visually polished and modern developer portfolio website for **Omar Yasser**, **Automation Developer**, using **pure HTML5, CSS3, and vanilla JavaScript**.
 
 ## User Review Required
 
@@ -47,7 +47,7 @@ Create a complete, single-page, visually polished and modern developer portfolio
 - **`<head>`**: SEO meta tags, Open Graph tags, viewport configuration, Google Fonts preconnect (`Inter` & `JetBrains Mono`), and link to CSS.
 - **`<nav>` (Header)**: Brand title ("Omar Yasser / dev"), navigation links (`#hero`, `#about`, `#skills`, `#projects`, `#experience`, `#services`, `#contact`), Theme Toggle Button (Moon/Sun), Mobile Hamburger toggle.
 - **`<section id="hero">`**:
-  - Headline: "Omar Yasser", Sub-headline: "Python Automation & Web Scraping Developer".
+  - Headline: "Omar Yasser", Sub-headline: "Automation Developer".
   - Supporting copy: "Building practical automation, web scraping, browser automation, and data-processing solutions with Python."
   - Quick tech tags: `Python`, `Playwright`, `Web Scraping`, `Automation`, `Data Processing`.
   - Primary CTAs: "View Projects" and "Contact Me".
@@ -66,7 +66,7 @@ Create a complete, single-page, visually polished and modern developer portfolio
 - **`<section id="experience">`**:
   - Non-fabricated development timeline with categories: *Python Automation Development*, *Web Scraping & Data Extraction*, *Browser Automation* labeled with "Hands-on Projects" & "Independent Development".
 - **`<section id="services">`**:
-  - 4 realistic service offerings: *Web Scraping*, *Web Automation*, *Business Process Automation*, *Data Processing & Automated Reports*.
+  - 4 realistic service offerings: *Web Scraping*, *AI Automation*, *AI Assistant*, *Data Processing & Automated Reports*.
 - **`<section id="career-objective">`**:
   - Prominently styled callout showcasing Omar's objective to specialize in business automation and data-driven tools.
 - **`<section id="contact">`**:

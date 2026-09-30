@@ -1,6 +1,6 @@
 /**
  * OMAR YASSER — PORTFOLIO JAVASCRIPT
- * Python Automation & Web Scraping Developer
+ * Automation Developer
  */
 
 document.addEventListener('DOMContentLoaded', () => {
